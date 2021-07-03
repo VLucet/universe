@@ -1,0 +1,10 @@
+[
+    {
+        "package": "rgovcan",
+        "url": "https://github.com/VLucet/rgovcan"
+    },
+    {
+        "package": "rgrassdoc",
+        "url": "https://github.com/VLucet/rgrassdoc"
+    }
+]
